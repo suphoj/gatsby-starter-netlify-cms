@@ -1,16 +1,27 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
+title: Legal & Accounting Services.
+image: /img/flavor_wheel.jpg
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: 'Law and Accounting Services in Bangkok Thailand '
 mainpitch:
-  title: Why Kaldi
+  title: 'Konrad Legal (Thailand) Co.,Ltd'
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+
+
+    Welcome and thank you for visiting our Website. In addition to providing you
+    with a profile of our Thai legal and Accounting services.We offer a total
+    scope of setting up company in Thailand and counsel business administrations
+    with our expert staff help you deal with the complexities of Thai law viably
+    and productively.
+
+
+    Konrad Legal Company offer Thai Legal and Accounting Services with
+    responsive to our clients’ inquiries and suggestions.
+
+
+    Please feel free to contact us with any questions or comments you may have –
+    we’d love to hear from you.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -68,3 +79,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
